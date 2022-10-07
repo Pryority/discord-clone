@@ -1,0 +1,7 @@
+{
+  "name": "discord-gun-node",
+  "version": "1.0.0",
+  "description": "a server for a web3 discord clone",
+  "main": "server.js",
+  "license": "MIT"
+}
